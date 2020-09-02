@@ -1,0 +1,5 @@
+C:\Users\LL100103\source\repos\CodeTest\Employee.Domain\bin\Debug\Employee.Domain.dll
+C:\Users\LL100103\source\repos\CodeTest\Employee.Domain\bin\Debug\Employee.Domain.pdb
+C:\Users\LL100103\source\repos\CodeTest\Employee.Domain\obj\Debug\Employee.Domain.csproj.CoreCompileInputs.cache
+C:\Users\LL100103\source\repos\CodeTest\Employee.Domain\obj\Debug\Employee.Domain.dll
+C:\Users\LL100103\source\repos\CodeTest\Employee.Domain\obj\Debug\Employee.Domain.pdb

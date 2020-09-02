@@ -1,0 +1,2 @@
+C:\Users\LL100103\source\repos\CodeTest\EmployeeApi.UnitTests\obj\Debug\EmployeeApi.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\LL100103\source\repos\CodeTest\EmployeeApi.UnitTests\obj\Debug\EmployeeApi.UnitTests.csprojAssemblyReference.cache
